@@ -1,20 +1,13 @@
 ### Hi there 👋
-"Hello I'Am Vicky"
-- 🌱 I’m currently learning **Ruby On Rails**
-- 🌱 I’m currently learning **HTML**
-<!--
-**vickygathe/VickyGathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :adult: About.Me
+- 🔭 I’m currently Working on...**Ruby On Rails**
+- 🌱 I’m currently learning...**HTML**
+- 💬 All of My Project Available at...**[My Portfolio(https://github.com/vickygathe)]**
+- 👯 I’m looking to collaborate on ...**OpenSource Projects**
+- 📫 How to reach me: ...**gathevicky101@gamil.com**
+- 
 
-Here are some ideas to get you started:
+**vickygathe/VickyGathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<
 
